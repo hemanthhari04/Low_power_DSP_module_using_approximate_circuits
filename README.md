@@ -12,4 +12,4 @@ To develop and evaluate **low-power MAC (Multiply-Accumulate)** and other DSP mo
 - Hybrid Approximate-Exact Designs
 
 --
-![Image](https://github.com/user-attachments/assets/43c5cbfd-ae9c-41f2-9889-e31eacd2a135)
+![Image](https://github.com/user-attachments/assets/88a35640-5a33-4bba-907a-38cb4ceb6c37)
