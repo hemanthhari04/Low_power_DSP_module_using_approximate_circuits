@@ -13,3 +13,7 @@ To develop and evaluate **low-power MAC (Multiply-Accumulate)** and other DSP mo
 
 --
 ![Image](https://github.com/user-attachments/assets/88a35640-5a33-4bba-907a-38cb4ceb6c37)
+
+
+
+REPORT: https://sites.google.com/view/synthesissquad/home
