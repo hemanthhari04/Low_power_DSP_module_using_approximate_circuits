@@ -16,4 +16,4 @@ To develop and evaluate **low-power MAC (Multiply-Accumulate)** and other DSP mo
 
 
 
-REPORT: https://sites.google.com/view/synthesissquad/home
+REPORTS: https://sites.google.com/view/synthesissquad/home
